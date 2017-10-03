@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\richsoap\.android\build-cache\24869a4424d51c446290f38722f41fdba4e084c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Android\Workspace\Studyer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_975164ebe603fc6ae67c0ddceb06584651419f11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Workspace\Studyer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd6f9f9942d93973cda2460ab9c8a4b03b7493b">
+        <dex dex="E:\Android\Workspace\Studyer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_085f89923aa8184a86244e5941c2332a9e69e2e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Workspace\Studyer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android\Workspace\Studyer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f1a96d01d4d5be6463a079a034e541d827fe2227\classes.dex" />
+    </item>
+
+</items>
